@@ -10,7 +10,8 @@ Système de Progression par Paliers (Gamification)
 Palier 1 (Initiation) : 3 cartes requis.
 Palier 2 (Consolidation) : 5 cartes requis.
 Palier 3 (Maîtrise) : 10 cartes requis.
-# Mécanique de Maîtrise :« Maîtrisé »  
+# Mécanique de Maîtrise 
+# « Maîtrisé »  
 Valide la carte et fait progresser l'étudiant
 # « À revoir » 
 Recommence le palier en cours depuis le début pour garantir l'assimilation parfaite du bloc.
